@@ -1,7 +1,7 @@
 ---
-title: Repeating code with for loops in Python
+title: تكرار تعليمات برمجية مع حلقات for في Python
 hero_image: images/banner.png
-description: generic-python-for-loop-repeat description
+description: وصف عام للحلقات التكرارية في Python
 version: 4
 listed: false
 ingredient: true
@@ -9,4 +9,4 @@ copyedit: false
 last_tested: "2021-08-24"
 steps:
   - 
-    title: Repeating code with for loops in Python
+    title: تكرار تعليمات برمجية مع حلقات for في Python
