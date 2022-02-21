@@ -1,8 +1,8 @@
-To run the code in a `for` loop a certain number of times, you can use the `range()` function.
+Om de code in een `for` lus een aantal malen uit te voeren, kun je de `range()` functie gebruiken.
 
 ```python
 for item in range(10):
-  print('Doing something')
+  print('doe iets')
 ```
 
-**Tip:** Because this code isn't using the value of `item`, you don't need to worry about the fact `range(10)` gives the numbers 0 to 9, instead of 1 to 10 — there are still ten numbers, so the code will run ten times.
+**Tip:** Omdat deze code de waarde van `item` niet gebruikt, hoef je je geen zorgen te maken over het feit dat `range (10)` de getallen 0 tot en met 9 geeft in plaats van 1 tot en met 10 — er zijn nog steeds tien getallen, dus de code wordt tien keer uitgevoerd.
