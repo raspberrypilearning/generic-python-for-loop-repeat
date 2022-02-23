@@ -1,8 +1,8 @@
-To run the code in a `for` loop a certain number of times, you can use the `range()` function.
+Για να εκτελέσεις τον κώδικα σε βρόχο `for` ορισμένες φορές, μπορείς να χρησιμοποιήσεις τη συνάρτηση `range()`.
 
 ```python
 for item in range(10):
-  print('Doing something')
+  print('Κάνω κάτι')
 ```
 
-**Tip:** Because this code isn't using the value of `item`, you don't need to worry about the fact `range(10)` gives the numbers 0 to 9, instead of 1 to 10 — there are still ten numbers, so the code will run ten times.
+**Συμβουλή:** Επειδή αυτός ο κώδικας δεν χρησιμοποιεί την τιμή της μεταβλητής `item`, δεν χρειάζεται να ανησυχείς για το γεγονός ότι το `range(10)` δίνει τους αριθμούς από το 0 έως το 9, αντί για το 1 έως το 10 — εξακολουθούν να υπάρχουν δέκα αριθμοί, οπότε ο κώδικας θα εκτελεστεί δέκα φορές.
