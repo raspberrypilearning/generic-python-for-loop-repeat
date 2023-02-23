@@ -1,7 +1,7 @@
 ---
-title: Repeating code with for loops in Python
+title: Повторення коду в Python за допомогою циклів for
 hero_image: images/banner.png
-description: generic-python-for-loop-repeat description
+description: загальний-опис-циклу-повторення python
 version: 4
 listed: false
 ingredient: true
@@ -9,4 +9,4 @@ copyedit: false
 last_tested: "2021-08-24"
 steps:
   - 
-    title: Repeating code with for loops in Python
+    title: Повторення коду в Python за допомогою циклів for
