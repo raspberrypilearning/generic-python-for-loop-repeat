@@ -5,4 +5,4 @@ for oggetto in range(10):
     print('Fai qualcosa')
 ```
 
-**Suggerimento:** Poiché questo codice non utilizza il valore di `item`, non devi preoccuparti del fatto che `range(10)` fornisce i numeri da 0 a 9, anziché da 1 a 10: ci sono ancora dieci numeri, quindi il codice verrà eseguito dieci volte.
+**Suggerimento:** Poiché questo codice non utilizza il valore di `oggetto`, non devi preoccuparti del fatto che `range(10)` fornisce i numeri da 0 a 9, anziché da 1 a 10: ci sono ancora dieci numeri, quindi il codice verrà eseguito dieci volte.
